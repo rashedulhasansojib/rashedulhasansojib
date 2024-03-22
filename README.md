@@ -4,12 +4,14 @@
 
 <h1 align="center">Rashedul Hasan Sojib</h1>
 
-<h3 align="center"><b><code>Avid Learner | Causal Gamer | Movie Buff | Photographer | Sometimes Developer</code></b></h3>
+<h3 align="center"><b><code>Avid Learner | Causal Gamer | Movie Buff | Novice Photographer | Sometimes Developer</code></b></h3>
+<p align="center"><img height="30px" alt="Static Badge"  src="https://img.shields.io/badge/%E2%80%9CTell%20me%20and%20I%20forget.%20Teach%20me%20and%20I%20remember.%20Involve%20me%20and%20I%20learn.%E2%80%9D-blue?style=plastic"></p>
+
 
 <h2 align="center" > <code>Welcome to my world of incomplete projects.</code></h2>
 
 
-I used to be a software developer up until a decade ago. Since then I have moved up the ladder, slid sideways on a ledge, jumped off the platform to something entirely different and jumped back on. All the while I never lost my interest in creating things.
+I used to be a developer up until a long ago. Since then I have moved up the ladder, slid sideways on a ledge, jumped off the platform to something entirely different and jumped back on. All the while I never lost my interest in creating things.
 
 I would always write a small utility for some random task I had to do. All these would just reside on my work machine or external storage, which would invariably get lost due to various reasons.
 
